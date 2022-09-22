@@ -1,1 +1,1 @@
-# push-to-card-0ayment
+# push-to-card-payment
